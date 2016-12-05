@@ -1,2 +1,4 @@
-# aura
-Project Aura
+# ArduinGo
+
+Project ArduinGo
+
